@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ofertas-reales.pages.dev/sitemap.xml
